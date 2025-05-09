@@ -1,0 +1,31 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/create-cardboarded-conveynience.pw.toml"
+hash = "756834228fb7f1d522b9aa3b98dabf170c5b72a1e5d4d9d02b8d67c02d4c0f54"
+metafile = true
+
+[[files]]
+file = "mods/create-connected.pw.toml"
+hash = "4fcc360a555cab1bfda371414423ad186d37019e4ce30b61b97d18fa1eba3d2c"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "aea8cb2405e8c09591ad4ebcb03f76936b016176577852b9a922278de45a5785"
+metafile = true
+
+[[files]]
+file = "mods/create_factory_logistics.pw.toml"
+hash = "3c2a24ed7ecdfdf606626d8f59e7398603ec9563d3a627930a6f575485662208"
+metafile = true
+
+[[files]]
+file = "mods/petrolpark.pw.toml"
+hash = "692fd62c81816bebbb14c56d8f21481f5eda7761d382a23694dd9b30fecfdba6"
+metafile = true
+
+[[files]]
+file = "mods/petrols-parts.pw.toml"
+hash = "7165e1854d27fbe4448eaee9c797d40a5039548f6b127c79558e8da8c47592e6"
+metafile = true
