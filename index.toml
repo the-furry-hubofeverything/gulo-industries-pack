@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "4fcc360a555cab1bfda371414423ad186d37019e4ce30b61b97d18fa1eba3d2c"
+hash = "1980bbec33f3ca1dee3eb96f0e1bb18294b1c990196a1baaae4b8203e46f4f4f"
 metafile = true
 
 [[files]]
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/create_factory_logistics.pw.toml"
-hash = "3c2a24ed7ecdfdf606626d8f59e7398603ec9563d3a627930a6f575485662208"
+hash = "63e6172196173475cdc514fabcfde5b77081cc018fcd438cd416d6815b63096a"
 metafile = true
 
 [[files]]
