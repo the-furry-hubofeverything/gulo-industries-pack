@@ -226,6 +226,11 @@ hash = "051a8937ed53267faa86fb53695f6e84a4fdf66d905cb9f3873e5498a6e66ab5"
 metafile = true
 
 [[files]]
+file = "mods/species.pw.toml"
+hash = "3c1c303483fd5bc44aa5ca939ecb4dc69b5a9de1d817a723a69ec2805c238414"
+metafile = true
+
+[[files]]
 file = "mods/stitch.pw.toml"
 hash = "58621f030d6291279635fcaf62bffdea007077aaf98513057a59fe97d0ddce6d"
 metafile = true
