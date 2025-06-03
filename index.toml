@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "86f9fa64b1f57106fc00a7f25902f09d9989f7046e7639e70714853b5382adad"
+metafile = true
+
+[[files]]
 file = "mods/create-cardboarded-conveynience.pw.toml"
 hash = "756834228fb7f1d522b9aa3b98dabf170c5b72a1e5d4d9d02b8d67c02d4c0f54"
 metafile = true
@@ -11,6 +16,11 @@ hash = "4fcc360a555cab1bfda371414423ad186d37019e4ce30b61b97d18fa1eba3d2c"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "7f2357b9ed0b0e9cecd57f12f76eea7408d3d5bae4508a86d3f49f82d50e406b"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "aea8cb2405e8c09591ad4ebcb03f76936b016176577852b9a922278de45a5785"
 metafile = true
@@ -18,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/create_factory_logistics.pw.toml"
 hash = "3c2a24ed7ecdfdf606626d8f59e7398603ec9563d3a627930a6f575485662208"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "13b1a2b6bb389a37c08cee933ee5357c9c6330f85be92dcd53fd01a3d8b45bf9"
 metafile = true
 
 [[files]]
