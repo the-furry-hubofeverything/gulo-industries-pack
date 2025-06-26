@@ -105,6 +105,11 @@ hash = "d83cb449f28672c09c80987e2321bfa13aa6127a814ef6007185575ba0173e0a"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "8276518c6ba5c30439e6361e115d6b26cd0a96904f7792d1501013aa05c3512f"
+metafile = true
+
+[[files]]
 file = "mods/do-api.pw.toml"
 hash = "35e3ed00b7e0b2a3082ed35c677589ca762cd73e18858ad6ba7a4b6f7cdef441"
 metafile = true
