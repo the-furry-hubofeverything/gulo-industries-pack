@@ -25,6 +25,11 @@ hash = "e0b0d4ffb66d813a4e6da0910d8e050bbfd8e16731dacb78fc5478029932c473"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "a86ce796ebf9141ed1bd0bff0446f3f06a63f588245bb3d206364968ba1f83a6"
+metafile = true
+
+[[files]]
 file = "mods/building-wands.pw.toml"
 hash = "e5ebcdd6314ddad2309c7db52a0b70f4472bf8b118c2cefe64f64193ef57af83"
 metafile = true
@@ -247,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/straw-statues.pw.toml"
 hash = "791be45440111d5edac5246dc8db707e25f5534783212ebe3909ad40b7230a4b"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "d297e172474bf6b009775c4c5fe03530549ad4ac80c905d83a3c1b9beca2ac38"
 metafile = true
 
 [[files]]
