@@ -1,13 +1,13 @@
 name = "Species"
-filename = "Species-1.20.1-2.3-forge.jar"
+filename = "species-3.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/s5d4P01r/versions/N9CbMB7B/Species-1.20.1-2.3-forge.jar"
+url = "https://cdn.modrinth.com/data/s5d4P01r/versions/KwPDNMjG/species-3.5.jar"
 hash-format = "sha512"
-hash = "e18f9bb08d49741951ff9d3c3cf90feab8bc1016f69657aa90316ad4caa5eadecea558ef2f6054542ba1167b3a47763c0b13c03fe17f3d6d7e9391c49cbffe11"
+hash = "9ff8a488d3eed6950fe8eb09e3ab55e7fe65ee3340c212067e46bf98054330658e6406ad72388054f9ce00921b8d8fdeb5f28e09058c800bdf46e2e47a754a64"
 
 [update]
 [update.modrinth]
 mod-id = "s5d4P01r"
-version = "N9CbMB7B"
+version = "KwPDNMjG"
