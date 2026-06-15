@@ -1,13 +1,13 @@
 name = "Gulo Industries Pack"
 author = "Hubble the Wolverine"
-version = "1.0.0"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "fa7ffacf385e24ee1334e4ac4a8e19142d0c5303da7a9a856c7dc16ba3268c28"
+hash = "5aae5117c47ee26d50f37892a25129a72d6e5ba88d94aacd42046c44d51b0b03"
 
 [versions]
-forge = "47.4.0"
-minecraft = "1.20.1"
+minecraft = "1.21.1"
+neoforge = "21.1.233"

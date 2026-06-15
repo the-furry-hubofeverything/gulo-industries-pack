@@ -1,0 +1,7 @@
+name = "Create: Aero Cables"
+filename = "aerocables-0.3.0.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/AHTfty0S/versions/8TmD04yf/aerocables-0.3.0.jar"
+hash-format = "sha256"
+hash = "fc2b8a8c793e84f968b86b0136c55cd7e7429958cc153fef2a467269e8243bc6"

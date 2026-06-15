@@ -1,0 +1,13 @@
+name = "Marketplace"
+filename = "marketplace-2.0.0-beta-1.21-mod.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4QhqQRkD/versions/6dEloQOS/marketplace-2.0.0-beta-1.21-mod.jar"
+hash-format = "sha512"
+hash = "ff69d4a347957a13f8e1318838f13be196e2589f1ecbfc183a69e7a86bd2b1d3a3c581fe328ba55076997bbba41011f406f9070daea3ad2b0419a6abbce48010"
+
+[update]
+[update.modrinth]
+mod-id = "4QhqQRkD"
+version = "6dEloQOS"
