@@ -3965,6 +3965,207 @@
             ]
         },
         {
+            "pakku_id": "IVjI9me5nWH39Xmp",
+            "pakku_links": [
+                "sFOJzKaAsfcuZXsN",
+                "k9P5OEcc8zg30gAk"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "easy-npc",
+                "modrinth": "easy-npc"
+            },
+            "name": {
+                "curseforge": "Easy NPC",
+                "modrinth": "Easy NPC"
+            },
+            "id": {
+                "curseforge": "559312",
+                "modrinth": "CgGEe1h3"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "easy_npc_bundle-neoforge-1.21.1-6.20.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8250/316/easy_npc_bundle-neoforge-1.21.1-6.20.0.jar",
+                    "id": "8250316",
+                    "parent_id": "559312",
+                    "hashes": {
+                        "sha1": "b07170641f6eb5e29f405bad6c085019150f810f",
+                        "md5": "215879fa6728a5a62830c4ca1f8b047a"
+                    },
+                    "required_dependencies": [
+                        "1214728",
+                        "1308987"
+                    ],
+                    "size": 25214,
+                    "date_published": "2026-06-15T00:46:22.893Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "easy_npc_bundle-neoforge-1.21.1-6.20.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/CgGEe1h3/versions/UAJ1WZIh/easy_npc_bundle-neoforge-1.21.1-6.20.0.jar",
+                    "id": "UAJ1WZIh",
+                    "parent_id": "CgGEe1h3",
+                    "hashes": {
+                        "sha512": "75bafd01fcfb184286782adf2f711a678ad2ad33f0b354e7ebc5e7f0fa49a3e711d92ed99ab923b765f2d5ebfeb05fd1a85400431c211301486c3efa1cd87d0b",
+                        "sha1": "ff44899e24d88412fbe19f974f9d10c6d0ddef66"
+                    },
+                    "required_dependencies": [
+                        "uTGjf7vA",
+                        "Epm6R3P2"
+                    ],
+                    "size": 25213,
+                    "date_published": "2026-06-15T00:46:14.668258Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "sFOJzKaAsfcuZXsN",
+            "pakku_links": [
+                "k9P5OEcc8zg30gAk"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "easy-npc-config-ui",
+                "modrinth": "easy-npc-config-ui"
+            },
+            "name": {
+                "curseforge": "Easy NPC: Config UI",
+                "modrinth": "Easy NPC: Config UI"
+            },
+            "id": {
+                "curseforge": "1214728",
+                "modrinth": "uTGjf7vA"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "easy_npc_config_ui-neoforge-1.21.1-6.20.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8250/313/easy_npc_config_ui-neoforge-1.21.1-6.20.0.jar",
+                    "id": "8250313",
+                    "parent_id": "1214728",
+                    "hashes": {
+                        "sha1": "bb5199efe130e94388777c37329a405d01269d45",
+                        "md5": "c6a15d470a2a697629c55e68f54517c6"
+                    },
+                    "required_dependencies": [
+                        "1308987"
+                    ],
+                    "size": 915965,
+                    "date_published": "2026-06-15T00:46:00.223Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "easy_npc_config_ui-neoforge-1.21.1-6.20.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/uTGjf7vA/versions/EgiCoB8k/easy_npc_config_ui-neoforge-1.21.1-6.20.0.jar",
+                    "id": "EgiCoB8k",
+                    "parent_id": "uTGjf7vA",
+                    "hashes": {
+                        "sha512": "1575f8bd2a6844d78a8e78e40cc9f8fbf2b6af32eee31a0acbd707f300042c9a0a2e77c58d673ce8d42128bfa1f598990956f9b2232d365e81c7c4b509a1fa9a",
+                        "sha1": "bb5199efe130e94388777c37329a405d01269d45"
+                    },
+                    "required_dependencies": [
+                        "Epm6R3P2"
+                    ],
+                    "size": 915965,
+                    "date_published": "2026-06-15T00:45:51.460571Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "k9P5OEcc8zg30gAk",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "easy-npc-core",
+                "modrinth": "easy-npc-core"
+            },
+            "name": {
+                "curseforge": "Easy NPC: Core",
+                "modrinth": "Easy NPC: Core"
+            },
+            "id": {
+                "curseforge": "1308987",
+                "modrinth": "Epm6R3P2"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "easy_npc-neoforge-1.21.1-6.20.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8250/309/easy_npc-neoforge-1.21.1-6.20.0.jar",
+                    "id": "8250309",
+                    "parent_id": "1308987",
+                    "hashes": {
+                        "sha1": "9cf48aaf4c6876001c283ffb054ac5394c56e1d2",
+                        "md5": "3c23adde61813831ab6ebce4b2b90ee6"
+                    },
+                    "required_dependencies": [],
+                    "size": 2118218,
+                    "date_published": "2026-06-15T00:45:35.823Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "easy_npc-neoforge-1.21.1-6.20.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Epm6R3P2/versions/Zh9vBGUz/easy_npc-neoforge-1.21.1-6.20.0.jar",
+                    "id": "Zh9vBGUz",
+                    "parent_id": "Epm6R3P2",
+                    "hashes": {
+                        "sha512": "f08bc904d82128dff501891147d24743d0959df77ee77782e206191d3057de01986da498888ec3499962903e114564eef7c7e0209198d744c929352930f9a865",
+                        "sha1": "9cf48aaf4c6876001c283ffb054ac5394c56e1d2"
+                    },
+                    "required_dependencies": [],
+                    "size": 2118218,
+                    "date_published": "2026-06-15T00:45:25.980168Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "PLiIpKaItg16DkFy",
             "type": "MOD",
             "side": "CLIENT",
