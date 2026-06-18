@@ -1,0 +1,12 @@
+{
+    "name": "Gulo Industries",
+    "version": "2.0.0",
+    "projects": {
+        "create": {
+            "export": false
+        },
+        "cc-tweaked": {
+            "update_strategy": "NONE"
+        }
+    }
+}
