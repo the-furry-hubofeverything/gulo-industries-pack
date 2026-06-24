@@ -8,6 +8,74 @@
     },
     "projects": [
         {
+            "pakku_id": "c7oe4JUEnTHOChum",
+            "pakku_links": [
+                "NQLiPsn4RLZRTDGd"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "advanced-peripherals",
+                "modrinth": "advancedperipherals"
+            },
+            "name": {
+                "curseforge": "Advanced Peripherals",
+                "modrinth": "Advanced Peripherals"
+            },
+            "id": {
+                "curseforge": "431725",
+                "modrinth": "SOw6jD6x"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "AdvancedPeripherals-1.21.1-0.7.62b.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/8228/816/AdvancedPeripherals-1.21.1-0.7.62b.jar",
+                    "id": "8228816",
+                    "parent_id": "431725",
+                    "hashes": {
+                        "sha1": "ca384e5439872d36b567b07e12d66a6b42e4894f",
+                        "md5": "416933ac8293b5ed606e1456de72425d"
+                    },
+                    "required_dependencies": [
+                        "282001"
+                    ],
+                    "size": 936602,
+                    "date_published": "2026-06-10T22:20:51.540Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "AdvancedPeripherals-1.21.1-0.7.62b.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/SOw6jD6x/versions/G45Z1XQB/AdvancedPeripherals-1.21.1-0.7.62b.jar",
+                    "id": "G45Z1XQB",
+                    "parent_id": "SOw6jD6x",
+                    "hashes": {
+                        "sha512": "9323762933ec9d61f229677401019fb1f4ddb5a8bdd15a69a1746c9a7186333aa29b2025abd381736bdf89505b449697bb96db69d8a50c39b430d6ef1efe689b",
+                        "sha1": "fcbd66eb380e2712c0d00c1c7fb1c55bf0cdc470"
+                    },
+                    "required_dependencies": [
+                        "gu7yAYhd"
+                    ],
+                    "size": 936602,
+                    "date_published": "2026-06-10T22:20:39.499949Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "GlUqRn7ZPLwtSPli",
             "type": "MOD",
             "side": "BOTH",
@@ -557,6 +625,77 @@
                     "required_dependencies": [],
                     "size": 3126946,
                     "date_published": "2026-06-15T21:41:30.409340Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "sYqqM8ZRv9Inp5Vn",
+            "pakku_links": [
+                "Tr4U6yq4bxu53Sqf",
+                "NQLiPsn4RLZRTDGd"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "cccbridge",
+                "modrinth": "cccbridge"
+            },
+            "name": {
+                "curseforge": "CC:C Bridge",
+                "modrinth": "CC:C Bridge"
+            },
+            "id": {
+                "curseforge": "656214",
+                "modrinth": "fXt291FO"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cccbridge-mc1.21.1-v1.7.3-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8232/436/cccbridge-mc1.21.1-v1.7.3-neoforge.jar",
+                    "id": "8232436",
+                    "parent_id": "656214",
+                    "hashes": {
+                        "sha1": "2f0df007d6ed849266a505f0854ab07f55a58b41",
+                        "md5": "50f30b3d2e8ef3d37c748f5223f0baa3"
+                    },
+                    "required_dependencies": [
+                        "328085",
+                        "282001"
+                    ],
+                    "size": 490733,
+                    "date_published": "2026-06-11T16:25:01.480Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "cccbridge-mc1.21.1-v1.7.3-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/fXt291FO/versions/MKK6cYI5/cccbridge-mc1.21.1-v1.7.3-neoforge.jar",
+                    "id": "MKK6cYI5",
+                    "parent_id": "fXt291FO",
+                    "hashes": {
+                        "sha512": "bcface30c088371b080ad998a521968d921b814a5d293492e9c5f37ed29630610bbaeb18f3aeaa93d48b2f2c54cd2a21a62130cfab97ce52031218ad7f415a45",
+                        "sha1": "2f0df007d6ed849266a505f0854ab07f55a58b41"
+                    },
+                    "required_dependencies": [
+                        "gu7yAYhd",
+                        "LNytGWDc"
+                    ],
+                    "size": 490733,
+                    "date_published": "2026-06-11T16:23:41.501588Z"
                 }
             ]
         },
@@ -2054,52 +2193,6 @@
                     ],
                     "size": 151025,
                     "date_published": "2026-06-09T18:59:40.123865Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "3UpJuLegrGgPgpHP",
-            "pakku_links": [
-                "Tr4U6yq4bxu53Sqf",
-                "iRk80F105bTThRiR",
-                "NQLiPsn4RLZRTDGd"
-            ],
-            "type": "MOD",
-            "side": "SERVER",
-            "slug": {
-                "modrinth": "create-cc-total-logistics"
-            },
-            "name": {
-                "modrinth": "Create: CC Total Logistics"
-            },
-            "id": {
-                "modrinth": "FuyTRq2g"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "createcclogistics-1.21.1-0.3.6.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/FuyTRq2g/versions/24hfd7Lg/createcclogistics-1.21.1-0.3.6.jar",
-                    "id": "24hfd7Lg",
-                    "parent_id": "FuyTRq2g",
-                    "hashes": {
-                        "sha512": "d3217ac82366f80de3413fefc1430bcb45e350761430011528a547e6ff875ef5f733f5fbe0477e179d3f47b859bc38379550bcb75a11b9f807d77357440ec8f0",
-                        "sha1": "18e0cf6cd07d223062135675ad8a152418647cff"
-                    },
-                    "required_dependencies": [
-                        "LNytGWDc",
-                        "ordsPcFz",
-                        "gu7yAYhd"
-                    ],
-                    "size": 101118,
-                    "date_published": "2025-06-14T03:17:37.573303Z"
                 }
             ]
         },
@@ -8191,6 +8284,67 @@
                     "required_dependencies": [],
                     "size": 115765,
                     "date_published": "2025-08-23T04:49:17.790Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "aOuuBTHdWJiM6TIt",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "wakes-reforged",
+                "modrinth": "wakes-reforged"
+            },
+            "name": {
+                "curseforge": "Wakes Reforged",
+                "modrinth": "Wakes Reforged"
+            },
+            "id": {
+                "curseforge": "1223529",
+                "modrinth": "E0SdeAoH"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "wakes-1.21.1-NeoForge-1.3.6.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8161/701/wakes-1.21.1-NeoForge-1.3.6.jar",
+                    "id": "8161701",
+                    "parent_id": "1223529",
+                    "hashes": {
+                        "sha1": "a42fa6285f0e0c039b705d1a412c1add6fac04eb",
+                        "md5": "2af952e7869b1b8591275d5a57fd30bc"
+                    },
+                    "required_dependencies": [],
+                    "size": 210703,
+                    "date_published": "2026-05-28T21:46:49.167Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "wakes-1.21.1-NeoForge-1.3.6.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/E0SdeAoH/versions/jssHGPbO/wakes-1.21.1-NeoForge-1.3.6.jar",
+                    "id": "jssHGPbO",
+                    "parent_id": "E0SdeAoH",
+                    "hashes": {
+                        "sha512": "c0a6e4e1a1e9c485afa61d8dcd38a45f74d25e8523dcfcddfb0fb826e006b52da5fd416c415111d19413309e6dd09ad55d61f0af679f8341884b5e2dd1ee2385",
+                        "sha1": "a42fa6285f0e0c039b705d1a412c1add6fac04eb"
+                    },
+                    "required_dependencies": [],
+                    "size": 210703,
+                    "date_published": "2026-05-28T21:47:05.221974Z"
                 }
             ]
         },
