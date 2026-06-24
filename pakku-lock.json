@@ -6493,6 +6493,110 @@
             ]
         },
         {
+            "pakku_id": "Tz5JFDeKCpVzSF5S",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "pehkui",
+                "modrinth": "pehkui"
+            },
+            "name": {
+                "curseforge": "Pehkui",
+                "modrinth": "Pehkui"
+            },
+            "id": {
+                "curseforge": "319596",
+                "modrinth": "t5W7Jfwy"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Pehkui-3.8.3+1.21-neoforge.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/5446/174/Pehkui-3.8.3+1.21-neoforge.jar",
+                    "id": "5446174",
+                    "parent_id": "319596",
+                    "hashes": {
+                        "sha1": "4ae35b04b0fca7b170417a12d6da6a693281574b",
+                        "md5": "e7aa528c6ba9fe1df3b7e54cdc867a7e"
+                    },
+                    "required_dependencies": [],
+                    "size": 507568,
+                    "date_published": "2024-06-19T18:12:11.333Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Pehkui-3.8.3+1.21-neoforge.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/t5W7Jfwy/versions/nKHizsl6/Pehkui-3.8.3+1.21-neoforge.jar",
+                    "id": "nKHizsl6",
+                    "parent_id": "t5W7Jfwy",
+                    "hashes": {
+                        "sha512": "a4213c16ffc98113031b9f326266ae8098af8ccb409c119e84adffec0f4f47d15ba6ddc59e6fc10504d1482284f6c6c28c6a139bf28d2ccc08cfcb6d6ee749be",
+                        "sha1": "4ae35b04b0fca7b170417a12d6da6a693281574b"
+                    },
+                    "required_dependencies": [],
+                    "size": 507568,
+                    "date_published": "2024-06-19T18:12:21.239809Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "cF3lCjKfrvwndubs",
+            "pakku_links": [
+                "Tz5JFDeKCpVzSF5S"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "pehkui4all"
+            },
+            "name": {
+                "curseforge": "Pehkui4All"
+            },
+            "id": {
+                "curseforge": "1067531"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "pehkui4all-1.1.1-neoforge-1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7855/526/pehkui4all-1.1.1-neoforge-1.21.1.jar",
+                    "id": "7855526",
+                    "parent_id": "1067531",
+                    "hashes": {
+                        "sha1": "96fd8d58e5b2761a473fa272ee34fb57e6a7c690",
+                        "md5": "685ea3839da949cc8e1f855770f392da"
+                    },
+                    "required_dependencies": [
+                        "319596"
+                    ],
+                    "size": 150782,
+                    "date_published": "2026-04-01T10:56:07.113Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "CZDmDMJq2CBejJK9",
             "type": "SHADER",
             "side": "CLIENT",

@@ -1,0 +1,63 @@
+{
+  "limits": [
+    {
+      "pehkui:base": {
+        "Min": 0.3,
+        "Max": 3,
+        "Min_Delay": 1,
+        "Max_Delay": 1000
+      }
+    },
+    {
+      "pehkui:eye_height": {
+        "Min": 0.3,
+        "Max": 3,
+        "Min_Delay": 1,
+        "Max_Delay": 1000
+      }
+    },
+    {
+      "pehkui:hitbox_height": {
+        "Min": 0.3,
+        "Max": 3,
+        "Min_Delay": 1,
+        "Max_Delay": 1000
+      }
+    },
+    {
+      "pehkui:hitbox_Width": {
+        "Min": 0.3,
+        "Max": 3,
+        "Min_Delay": 1,
+        "Max_Delay": 1000
+      }
+    },
+    {
+      "pehkui:held_item": {
+        "Min": 0.25,
+        "Max": 4.0,
+        "Min_Delay": 1,
+        "Max_Delay": 1000
+      }
+    }
+  ],
+  "EasingsBan": [
+    "pehkui:back_in",
+    "pehkui:back_in_out",
+    "pehkui:back_out",
+    "pehkui:elastic_in",
+    "pehkui:elastic_in_out",
+    "pehkui:elastic_out"
+  ],
+  "AllowEntityRescaling": false,
+  "AllowPlayerRescaling": true,
+  "EntityBanList": [
+    "minecraft:wither",
+    "minecraft:ender_dragon",
+    "minecraft:creeper",
+    "minecraft:tnt",
+    "minecraft:end_crystal"
+  ],
+  "InvertEntityBanList": false,
+  "EntityRescaleRangeLimit": 8
+}

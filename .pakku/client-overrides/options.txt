@@ -140,7 +140,7 @@ key_keybind.name.EMOTE_SLOT_7:key.keyboard.unknown
 key_keybind.name.EMOTE_SLOT_8:key.keyboard.unknown
 key_keybind.name.ZOOM:key.keyboard.c
 key_key.modernfix.config:key.keyboard.unknown
-key_iris.keybind.reload:key.keyboard.r
+key_iris.keybind.reload:key.keyboard.r:ALT
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_iris.keybind.wireframe:key.keyboard.unknown
