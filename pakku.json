@@ -1,12 +1,21 @@
 {
     "name": "Gulo Industries",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "projects": {
         "create": {
             "export": false
         },
         "cc-tweaked": {
             "update_strategy": "NONE"
+        },
+        "geckolib": {
+            "side": "BOTH"
+        },
+        "ponder": {
+            "side": "BOTH"
+        },
+        "wakes-reforged": {
+            "side": "CLIENT"
         }
     }
 }
